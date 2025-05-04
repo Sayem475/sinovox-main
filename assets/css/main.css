@@ -823,7 +823,7 @@ section,
   color: var(--default-color);
   background-color: var(--background-color);
   padding: 60px 0;
-  scroll-margin-top: 900px;
+  /* scroll-margin-top: 900px; */
   overflow: clip;
 }
 
@@ -831,7 +831,7 @@ section,
 
   section,
   .section {
-    scroll-margin-top: 66px;
+    /* scroll-margin-top: 66px; */
   }
 }
 
